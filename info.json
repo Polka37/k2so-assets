@@ -1,0 +1,13 @@
+  {
+  "name": "k2so-assets",
+  "version": "1.0.0",
+  "title": "Krastorio 2 Spaced Out Assets",
+  "description": "Assets for K2SO",
+  "contact": "https://discord.gg/wCR2MVYqef",
+  "homepage": "https://github.com/Polka37/k2so-assets",
+  "author": "Polka_37",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.69"
+  ]
+}
